@@ -247,4 +247,12 @@ This project was developed using React.js, Python FastAPI, document processing t
 
 ## 📄 License
 
+This project is licensed under the **Apache License, Version 2.0**.
+
+You are free to use, modify, and distribute this software under the terms and conditions of the license.
+
+See the [LICENSE](LICENSE) file for the complete license text.
+
+Copyright belongs to the respective copyright holder(s).
+
 No open-source license has been specified yet. All rights reserved unless the repository owner adds a license.
